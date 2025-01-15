@@ -1,0 +1,9 @@
+# 不要上传你的 Google Cloud 密钥文件
+textreader-key.json
+
+# Python 编译文件
+__pycache__/
+*.pyc
+
+# 输出音频文件
+output.mp3
