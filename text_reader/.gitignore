@@ -7,3 +7,4 @@ __pycache__/
 
 # 输出音频文件
 output.mp3
+config.json
